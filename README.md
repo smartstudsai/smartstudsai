@@ -1,4 +1,4 @@
-Junior Quant [@XTX Markets](https://www.xtxmarkets.com/)            
+• Junior Quant [@XTX Markets](https://www.xtxmarkets.com/)            
 
 **Education** <br>
 • Master's Degree - Computer Science [@ETH Zurich](https://ethz.ch/en.html/)
@@ -13,3 +13,8 @@ Junior Quant [@XTX Markets](https://www.xtxmarkets.com/)
 • Undergraduate Researcher [@TU-Delft](https://www.tudelft.nl/en/)
 <br>
 • Game Mathematician Intern [@Entain](https://entaingroup.com/)
+
+**Volunteering** <br>
+• Teaching Assistant [@University of Warwick](https://warwick.ac.uk/)
+<br>
+• Game Data Miner [@Unite-DB](https://unite-db.com/) and [@OP.gg](https://www.op.gg/)
