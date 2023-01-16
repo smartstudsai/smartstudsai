@@ -3,7 +3,7 @@
 **Education** <br>
 • Master's Degree - Computer Science at [ETH Zurich](https://ethz.ch/en.html/)
 <br>
-• Bachelor's Degree - Mathematics & Computer Science at [University of Warwick](https://warwick.ac.uk/)
+• Bachelor's Degree - Mathematics at [University of Warwick](https://warwick.ac.uk/)
 
 **Experience** <br>
 • Algorithm Engineer Intern at [Huawei](https://www.huawei.com/en/)
