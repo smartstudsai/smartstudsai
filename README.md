@@ -8,7 +8,7 @@
 **Experience** <br>
 • Algorithm Engineer Intern at [Huawei](https://www.huawei.com/en/)
 <br>
-• Undergraduate Researcher at [EPFL](https://www.polytechnique.edu/en/)
+• Undergraduate Researcher at [EPFL](https://www.epfl.ch/en/)
 <br>
 • Undergraduate Researcher at [TU-Delft](https://www.tudelft.nl/en/)
 <br>
